@@ -1,0 +1,18 @@
+GABAYKARERA AI - COMPETENCY MATCHING & SKILL GAP FRAMEWORK (2026 MANUAL)
+
+1. Executive Summary
+GabayKarera AI utilizes Person-Job Fit Theory (Edwards, 1991) to analyze candidate qualifications, education level, work experience, and core skill competencies against employer requirements.
+
+2. Competency Weight Distribution:
+- Technical & Core Skill Similarity: 55%
+- Relevant Work Experience: 25%
+- Educational Degree & Domain Fit: 15%
+- Complementary Tool & Preferred Skill Bonus: 5%
+
+3. Skill Taxonomy Matrix:
+- Web Development: PHP, JavaScript, MySQL, HTML5/CSS3, React, Node.js, RESTful APIs
+- Data Analytics: Python, SQL, Power BI, Excel, Data Cleaning, Statistical Analysis
+- UI/UX Design: Figma, Wireframing, User Research, Prototyping, Accessibility Standards
+- Software Engineering: Java, Git, System Architecture, Object-Oriented Programming
+
+Published by System Administrator - GabayKarera AI.
